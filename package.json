@@ -1,0 +1,28 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^3.5.1",
+    "jade": "*",
+    "mongodb": "*",
+    "monk": "*",
+    "logfmt": "^1.1.2"
+  },
+  "description": "Test",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/przysk01/app1.git"
+  },
+  "author": "Konrad Przysucha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/przysk01/app1/issues"
+  },
+  "homepage": "https://github.com/przysk01/app1"
+}
